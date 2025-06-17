@@ -83,7 +83,7 @@ DATABASES = {
         "NAME": "shop_db",
         "USER": "postgres",
         "PASSWORD": "artemtrololo",
-        "HOST": "127.0.0.1",
+        "HOST": "localhost",
         "PORT": "5432",
     }
 }
